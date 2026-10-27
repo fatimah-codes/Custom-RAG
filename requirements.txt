@@ -1,0 +1,14 @@
+streamlit>=1.35
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain-core
+faiss-cpu
+pypdf
+openai
+tiktoken
+python-docx
+openpyxl
+xlrd
+pandas
